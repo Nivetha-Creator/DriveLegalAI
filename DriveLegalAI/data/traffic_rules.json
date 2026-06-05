@@ -1,0 +1,268 @@
+[
+  {
+    "country": "India",
+    "violation": "No Helmet",
+    "state": "Tamil Nadu",
+    "vehicle": "Bike",
+    "fine": "1000",
+    "law": "Section 129",
+    "description": "Helmet is mandatory for rider safety."
+  },
+  {
+    "country": "India",
+    "violation": "Triple Riding",
+    "state": "Tamil Nadu",
+    "vehicle": "Bike",
+    "fine": "1000",
+    "law": "Section 128",
+    "description": "Only two people are allowed on a bike."
+  },
+  {
+    "country": "India",
+    "violation": "Overspeeding",
+    "state": "Tamil Nadu",
+    "vehicle": "Car",
+    "fine": "2000",
+    "law": "Section 183",
+    "description": "Overspeeding increases accident risk."
+  },
+  {
+    "country": "India",
+    "violation": "Drunk Driving",
+    "state": "Tamil Nadu",
+    "vehicle": "Car",
+    "fine": "10000",
+    "law": "Section 185",
+    "description": "Driving under alcohol influence is illegal."
+  },
+  {
+    "country": "India",
+    "violation": "No Seatbelt",
+    "state": "Tamil Nadu",
+    "vehicle": "Car",
+    "fine": "1000",
+    "law": "Section 194B",
+    "description": "Seatbelt is compulsory for safety."
+  },
+
+  {
+    "country": "India",
+    "violation": "No Helmet",
+    "state": "Karnataka",
+    "vehicle": "Bike",
+    "fine": "1500",
+    "law": "Section 129",
+    "description": "Helmet is compulsory in Karnataka."
+  },
+  {
+    "country": "India",
+    "violation": "Triple Riding",
+    "state": "Karnataka",
+    "vehicle": "Bike",
+    "fine": "1000",
+    "law": "Section 128",
+    "description": "Triple riding is unsafe."
+  },
+  {
+    "country": "India",
+    "violation": "Overspeeding",
+    "state": "Karnataka",
+    "vehicle": "Car",
+    "fine": "2000",
+    "law": "Section 183",
+    "description": "Overspeeding is dangerous."
+  },
+  {
+    "country": "India",
+    "violation": "Drunk Driving",
+    "state": "Karnataka",
+    "vehicle": "Car",
+    "fine": "10000",
+    "law": "Section 185",
+    "description": "Drunk driving is punishable by law."
+  },
+  {
+    "country": "India",
+    "violation": "Using Mobile While Driving",
+    "state": "Karnataka",
+    "vehicle": "Car",
+    "fine": "5000",
+    "law": "Section 184",
+    "description": "Using mobile phones while driving causes distractions."
+  },
+
+  {
+    "country": "India",
+    "violation": "No Helmet",
+    "state": "Delhi",
+    "vehicle": "Bike",
+    "fine": "1000",
+    "law": "Section 129",
+    "description": "Helmet protects riders from severe injuries."
+  },
+  {
+    "country": "India",
+    "violation": "Triple Riding",
+    "state": "Delhi",
+    "vehicle": "Bike",
+    "fine": "1000",
+    "law": "Section 128",
+    "description": "Triple riding is prohibited."
+  },
+  {
+    "country": "India",
+    "violation": "Overspeeding",
+    "state": "Delhi",
+    "vehicle": "Car",
+    "fine": "2000",
+    "law": "Section 183",
+    "description": "Overspeeding is a serious offense."
+  },
+  {
+    "country": "India",
+    "violation": "Drunk Driving",
+    "state": "Delhi",
+    "vehicle": "Car",
+    "fine": "10000",
+    "law": "Section 185",
+    "description": "Driving under alcohol influence is illegal."
+  },
+  {
+    "country": "India",
+    "violation": "No Seatbelt",
+    "state": "Delhi",
+    "vehicle": "Car",
+    "fine": "1000",
+    "law": "Section 194B",
+    "description": "Seatbelt is mandatory for all passengers."
+  },
+
+  {
+    "country": "India",
+    "violation": "No Helmet",
+    "state": "Kerala",
+    "vehicle": "Bike",
+    "fine": "1000",
+    "law": "Section 129",
+    "description": "Helmet improves rider safety."
+  },
+  {
+    "country": "India",
+    "violation": "Triple Riding",
+    "state": "Kerala",
+    "vehicle": "Bike",
+    "fine": "1000",
+    "law": "Section 128",
+    "description": "Only two people allowed on bikes."
+  },
+  {
+    "country": "India",
+    "violation": "Overspeeding",
+    "state": "Kerala",
+    "vehicle": "Car",
+    "fine": "2000",
+    "law": "Section 183",
+    "description": "High speed reduces reaction time."
+  },
+  {
+    "country": "India",
+    "violation": "Drunk Driving",
+    "state": "Kerala",
+    "vehicle": "Car",
+    "fine": "10000",
+    "law": "Section 185",
+    "description": "Alcohol consumption while driving is illegal."
+  },
+  {
+    "country": "India",
+    "violation": "No Seatbelt",
+    "state": "Kerala",
+    "vehicle": "Car",
+    "fine": "1000",
+    "law": "Section 194B",
+    "description": "Seatbelts reduce fatal injuries."
+  },
+
+  {
+    "country": "India",
+    "violation": "No Helmet",
+    "state": "Maharashtra",
+    "vehicle": "Bike",
+    "fine": "1000",
+    "law": "Section 129",
+    "description": "Helmet is mandatory."
+  },
+  {
+    "country": "India",
+    "violation": "Triple Riding",
+    "state": "Maharashtra",
+    "vehicle": "Bike",
+    "fine": "1000",
+    "law": "Section 128",
+    "description": "Triple riding is dangerous."
+  },
+  {
+    "country": "India",
+    "violation": "Overspeeding",
+    "state": "Maharashtra",
+    "vehicle": "Car",
+    "fine": "2000",
+    "law": "Section 183",
+    "description": "Speed limits must be followed."
+  },
+  {
+    "country": "India",
+    "violation": "Drunk Driving",
+    "state": "Maharashtra",
+    "vehicle": "Car",
+    "fine": "10000",
+    "law": "Section 185",
+    "description": "Driving under influence is punishable."
+  },
+  {
+    "country": "India",
+    "violation": "No Seatbelt",
+    "state": "Maharashtra",
+    "vehicle": "Car",
+    "fine": "1000",
+    "law": "Section 194B",
+    "description": "Seatbelt use is compulsory."
+  },
+
+  {
+    "country": "USA",
+    "violation": "No Seatbelt",
+    "state": "California",
+    "vehicle": "Car",
+    "fine": "162",
+    "law": "Vehicle Code 27315",
+    "description": "Seatbelt use is mandatory for drivers and passengers."
+  },
+  {
+    "country": "USA",
+    "violation": "Using Mobile While Driving",
+    "state": "Texas",
+    "vehicle": "Car",
+    "fine": "200",
+    "law": "Transportation Code",
+    "description": "Texting while driving is prohibited."
+  },
+  {
+    "country": "UK",
+    "violation": "Using Mobile While Driving",
+    "state": "England",
+    "vehicle": "Car",
+    "fine": "200",
+    "law": "Road Traffic Act",
+    "description": "Handheld mobile phone use while driving is illegal."
+  },
+  {
+    "country": "UK",
+    "violation": "No Seatbelt",
+    "state": "England",
+    "vehicle": "Car",
+    "fine": "100",
+    "law": "Road Traffic Act",
+    "description": "Seatbelt use is compulsory."
+  }
+]
